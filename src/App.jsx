@@ -1,4 +1,4 @@
-import JoinCreateChat from "./components/JoinCreateChat";
+import JoinCreateChat from "./components/joinCreateChat";
 
 function App() {
   return (
