@@ -19,7 +19,6 @@
     "react-icons": "^5.7.0",
     "react-router": "^8.2.0",
     "react-router-dom": "^7.18.1",
-    "sockjs": "^0.3.24",
     "sockjs-client": "^1.6.1",
     "tailwindcss": "^4.3.2",
     "toastify": "^2.0.1"
